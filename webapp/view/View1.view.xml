@@ -6,7 +6,7 @@
 					<content>
 					<Button text="Hi"/>
 					<Button text="Bye"/>
-					<Button text="uyyug"></Button></content>
+					<Button text="test1"></Button></content>
 				</Page>
 			</pages>
 		</App>
